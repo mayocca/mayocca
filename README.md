@@ -4,7 +4,7 @@ Just your average Joe that plays video games and likes to code. Looking to build
 
 I am a backend software engineer with experience in PHP and Laravel, but sometimes I like to dabble in frontend stuff or even some DevOps.
 
-I use Arch btw.
+I use Nix btw.
 
 ## Technologies 🛠
 
